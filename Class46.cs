@@ -4,7 +4,14 @@ using System.Text;
 
 namespace my_project_1
 {
-    class Class27
+    class Clas
     {
+        static void Main(string[] args)
+        {
+
+
+        }
+
+         
     }
 }

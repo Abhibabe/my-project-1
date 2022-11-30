@@ -35,7 +35,7 @@ namespace my_project_1
     {
         public Child(int x,int y):base(x,y)
         {
-            public void Study()
+            
         }
     }
     class Program
@@ -43,7 +43,8 @@ namespace my_project_1
         static void Main(string[]args)
         {
             Child c = new Child(11, 12);
-            c.Study()
+            c.Study();
         }
     }
 }
+
